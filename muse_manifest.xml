@@ -1,0 +1,44 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1549662169956">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="master_a-master.css" crc="4134188418" ref="index:contact:research:publications:people:vacanciesphds:freshwater:liliana-castro-cubillos:dr-joe-d-taylor:marine:terrestrial:gallery:ana-luzia-lacerda"/>
+    <file name="index.css" crc="385545069" ref="index"/>
+    <file name="contact.css" crc="3937219329" ref="contact"/>
+    <file name="research.css" crc="3937219329" ref="research"/>
+    <file name="publications.css" crc="3916171141" ref="publications"/>
+    <file name="people.css" crc="3937219329" ref="people"/>
+    <file name="vacanciesphds.css" crc="3937219329" ref="vacanciesphds"/>
+    <file name="freshwater.css" crc="3937219329" ref="freshwater"/>
+    <file name="liliana-castro-cubillos.css" crc="3937219329" ref="liliana-castro-cubillos"/>
+    <file name="dr-joe-d-taylor.css" crc="3937219329" ref="dr-joe-d-taylor"/>
+    <file name="marine.css" crc="3937219329" ref="marine"/>
+    <file name="terrestrial.css" crc="3937219329" ref="terrestrial"/>
+    <file name="gallery.css" crc="3937219329" ref="gallery"/>
+    <file name="ana-luzia-lacerda.css" crc="3937219329" ref="ana-luzia-lacerda"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:research:publications:people:vacanciesphds:contact:gallery:dr-joe-d-taylor:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+    <file name="museutils.js" crc="4136605575" ref="index:research:publications:people:vacanciesphds:contact:gallery:dr-joe-d-taylor:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:research:publications:people:vacanciesphds:contact:gallery:dr-joe-d-taylor:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:research:publications:people:vacanciesphds:contact:gallery:dr-joe-d-taylor:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:publications:people:vacanciesphds:contact:gallery:dr-joe-d-taylor:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+  </folder>
+  <folder name="images">
+    <file name="banner.jpg" crc="413037224" ref="index:gallery:research:publications:people:dr-joe-d-taylor:vacanciesphds:contact:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="amoeba marine.jpg" crc="40482747" ref="index:gallery:research:publications:people:dr-joe-d-taylor:vacanciesphds:contact:marine:terrestrial:freshwater:ana-luzia-lacerda:liliana-castro-cubillos"/>
+  </folder>
+  <file name="index.html" crc="3899816719" mt="1549662160751" redirect="true"/>
+  <file name="research.html" crc="333010711" mt="1549662160754" redirect="true"/>
+  <file name="publications.html" crc="3854881851" mt="1549662160756" redirect="true"/>
+  <file name="people.html" crc="4108028765" mt="1549662160758" redirect="true"/>
+  <file name="vacanciesphds.html" crc="482787827" mt="1549662160761" redirect="true"/>
+  <file name="contact.html" crc="52358652" mt="1549662160762" redirect="true"/>
+  <file name="gallery.html" crc="419035284" mt="1549662160753" redirect="true"/>
+  <file name="dr-joe-d-taylor.html" crc="174689057" mt="1549662160760" redirect="true"/>
+  <file name="marine.html" crc="3899670073" mt="1549662160764" redirect="true"/>
+  <file name="terrestrial.html" crc="4182479236" mt="1549662160765" redirect="true"/>
+  <file name="freshwater.html" crc="3791438177" mt="1549662160767" redirect="true"/>
+  <file name="ana-luzia-lacerda.html" crc="3771358983" mt="1549662160769" redirect="true"/>
+  <file name="liliana-castro-cubillos.html" crc="3766593313" mt="1549662160770" redirect="true"/>
+</manifest>
