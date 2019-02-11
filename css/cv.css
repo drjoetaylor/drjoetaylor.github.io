@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.cv /* version checker */
 {
-	color: #0000E9;
-	background-color: #97AAE5;
+	color: #00001F;
+	background-color: #8E713D;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 593.9250152419769px;
+	min-height: 593.6914893617022px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -794,17 +794,50 @@
 	left: 810px;
 }
 
-#u430
+#pu665-3
+{
+	width: 0.01px;
+	margin-left: 300px;
+	margin-top: 19px;
+}
+
+#u665-3
+{
+	z-index: 216;
+	width: 296px;
+	min-height: 121px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u666-12
+{
+	z-index: 219;
+	width: 363px;
+	background-color: transparent;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 13px;
+}
+
+#u664-102
 {
 	z-index: 114;
-	width: 451px;
-	min-height: 561px;
-	border-style: none;
-	border-color: transparent;
+	width: 878px;
+	min-height: 1389px;
 	background-color: transparent;
-	margin-left: 275px;
-	margin-top: 23px;
+	margin-left: 35px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
+}
+
+#u664,#u664-2,#u664-4,#u664-18,#u664-29,#u664-44,#u664-93
+{
+	font-weight: bold;
 }
 
 body

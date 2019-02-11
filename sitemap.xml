@@ -1,98 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://drjoetaylor.github.io/assets/algae-2018-03-14-12-00-06.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/assets/algae-2018-03-14-12-10-50.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/assets/algae-2018-03-14-12-12-39.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/assets/algae-2018-03-21-12-40-22.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/assets/ciliate-2018-01-25-13-57-35.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/assets/ciliate-2018-01-25-14-02-39.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://drjoetaylor.github.io/images/banner.jpg</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/images/arrowmenudown.gif</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/images/amoeba%20marine.jpg</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/images/pasted%20image%201226x846.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/images/pasted%20image%201572x990.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/images/pasted%20image%20672x700.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/images/pasted%20image%201044x804.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/images/pasted%20image%201248x928.jpg</loc>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/index.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/research.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/publications.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/people.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/vacanciesphds.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/contact.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/gallery.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/dr-joe-d-taylor.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/marine.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/terrestrial.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/freshwater.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/ana-luzia-lacerda.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://drjoetaylor.github.io/liliana-castro-cubillos.html</loc>
-    <lastmod>2019-02-08</lastmod>
+    <lastmod>2019-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://drjoetaylor.github.io/cv.html</loc>
+    <lastmod>2019-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
